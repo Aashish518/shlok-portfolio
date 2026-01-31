@@ -88,12 +88,12 @@ const Projects = () => {
                                 >
                                     Live Demo <ExternalLink size={16} />
                                 </a>
-                                <a
+                                {/* <a
                                     href={project.github}
                                     className="flex items-center gap-2 font-semibold text-slate-600 hover:text-slate-900 transition-colors text-xs sm:text-sm"
                                 >
                                     Code <Github size={16} />
-                                </a>
+                                </a> */}
                             </div>
 
                         </div>

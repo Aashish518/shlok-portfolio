@@ -53,8 +53,8 @@ const About = () => {
                         {[
                             { icon: <Code className="w-8 h-8 text-slate-700" />, title: "Frontend", desc: "Custom CSS, Tailwind CSS, Bootstrap" },
                             { icon: <Server className="w-8 h-8 text-slate-700" />, title: "Backend", desc: "PHP, Laravel" },
-                            { icon: <Database className="w-8 h-8 text-slate-700" />, title: "Database", desc: "MySQL, PostgreSQL, Mongodb" },
-                            { icon: <Globe className="w-8 h-8 text-slate-700" />, title: "Deployment", desc: "Hostinger, Render, Vercel" },
+                            { icon: <Database className="w-8 h-8 text-slate-700" />, title: "Database", desc: "MySQL, PostgreSQL" },
+                            { icon: <Globe className="w-8 h-8 text-slate-700" />, title: "Tools", desc: "Figma" },
                         ].map((item, idx) => (
                             <div
                                 key={idx}

@@ -14,12 +14,12 @@ const Skills = () => {
         },
         {
             title: 'Database',
-            skills: ['MySQL', 'PostgreSQL', 'MongoDB']
+            skills: ['MySQL', 'PostgreSQL']
         },
-        {
-            title: 'Auth & Security',
-            skills: ['JWT Auth', 'bcrypt']
-        },
+        // {
+        //     title: 'Auth & Security',
+        //     skills: ['JWT Auth', 'bcrypt']
+        // },
         {
             title: 'Tools',
             skills: ['Git', 'GitHub', 'VS Code', 'Postman', 'Figma']

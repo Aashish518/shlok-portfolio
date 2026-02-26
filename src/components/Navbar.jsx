@@ -27,7 +27,7 @@ const Navbar = () => {
 
                     {/* Logo */}
                     <a href="#home" className="text-2xl font-bold font-heading text-slate-900 tracking-tight">
-                        Portfolio<span className="text-slate-400">.</span>
+                        Shlok Ahir<span className="text-slate-400">.</span>
                     </a>
 
                     {/* Desktop Menu */}

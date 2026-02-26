@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shlok-portfolio-ak5v.onrender.com/sitemap.xml

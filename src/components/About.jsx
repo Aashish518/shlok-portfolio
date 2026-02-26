@@ -40,7 +40,7 @@ const About = () => {
                             </div>
                             <div className="p-4 bg-white rounded-lg border border-slate-200">
                                 <h4 className="font-bold text-slate-800 mb-1 text-2xl sm:text-3xl">
-                                    20+
+                                    10+
                                 </h4>
                                 <p className="text-xs sm:text-sm text-slate-500 font-medium">
                                     Projects Built
@@ -66,7 +66,7 @@ const About = () => {
                                 <h3 className="font-bold text-slate-800 mb-1 text-sm sm:text-base md:text-lg">
                                     {item.title}
                                 </h3>
-                                <p className="text-slate-500 text-xs sm:text-sm">
+                                <p className="text-slate-500 text-xs sm:text-sm text-center">
                                     {item.desc}
                                 </p>
                             </div>

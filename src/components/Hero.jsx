@@ -10,7 +10,7 @@ const Hero = () => {
                 {/* Text Content */}
                 <div className="space-y-6 sm:space-y-8 animate-fade-in-up text-center lg:text-left order-2 lg:order-1">
                     <h1 className="leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
-                        Full Stack <br />
+                        PHP<br />
                         <span className="text-slate-500">Developer</span>
                     </h1>
 
@@ -45,9 +45,9 @@ const Hero = () => {
                         <a href="https://www.linkedin.com/in/jadavaashish" className="hover:text-slate-900 transition-colors">
                             <Linkedin size={22} />
                         </a> */}
-                        <a href="mailto:shlokahir2002@email.com" className="hover:text-slate-900 transition-colors">
+                        {/* <a href="mailto:shlokahir2002@email.com" className="hover:text-slate-900 transition-colors">
                             <Mail size={22} />
-                        </a>
+                        </a> */}
                     </div>
                 </div>
 
